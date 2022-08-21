@@ -1,1 +1,1 @@
-Luyen code thuc hanh Assembly cho mon hoc Kien truc may tinh KMA
+Luyện thực hành code Assembly trong môn học Kiến Trúc Máy Tính - KMA
